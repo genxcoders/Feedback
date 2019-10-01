@@ -1,0 +1,264 @@
+
+=======================[2019-06-20 19:09:07]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Password reset requested
+Message:          
+			                A request was received to reset your password for the following site and username:
+			                http://localhost/feedback/			                Username: admin
+			                To confirm that the request was made by you please visit the following address, otherwise just ignore this email.
+			                http://localhost/feedback/users/lost-password.php?act=reset&key=admin%7CBK81BsZEUShU8Ilfmb1Ec1EAIq51x8Fq%7C1561124346%7Ced4d58bc21331323ad22faab1799e796			            
+
+Delivery Failed
+
+=======================[2019-06-20 19:11:19]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Your new password
+Message: 		            Your password has been resetted for the following site and username:
+		            http://localhost/feedback/		            Username: admin
+		            New Password: tvcCfLuu5MjT
+		            Once logged in you can change your password.
+		        
+
+Delivery Failed
+
+=======================[2019-06-20 19:16:06]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Password reset requested
+Message:          
+			                A request was received to reset your password for the following site and username:
+			                http://localhost/feedback/			                Username: admin
+			                To confirm that the request was made by you please visit the following address, otherwise just ignore this email.
+			                http://localhost/feedback/users/lost-password.php?act=reset&key=admin%7Cj0M3LqsIOus4ibmPxYhfpON1eb1mQ3v0%7C1561124765%7C06eb1aaa8e0234b85e63562d2456174c			            
+
+Delivery Failed
+
+=======================[2019-06-20 19:16:22]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Your new password
+Message: 		            Your password has been resetted for the following site and username:
+		            http://localhost/feedback/		            Username: admin
+		            New Password: CTo9nFfxtQan
+		            Once logged in you can change your password.
+		        
+
+Delivery Failed
+
+=======================[2019-06-20 19:17:16]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Password reset requested
+Message:          
+			                A request was received to reset your password for the following site and username:
+			                http://localhost/feedback/			                Username: admin
+			                To confirm that the request was made by you please visit the following address, otherwise just ignore this email.
+			                http://localhost/feedback/users/lost-password.php?act=reset&key=admin%7CXqqBYyzSOSEi47ZiQurRHJmrK2z2B9r5%7C1561124835%7C8141003b334d59e4272c3cca483ea4b7			            
+
+Delivery Failed
+
+=======================[2019-06-20 19:17:31]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Your new password
+Message: 		            Your password has been resetted for the following site and username:
+		            http://localhost/feedback/		            Username: admin
+		            New Password: jhNAw8ZZhWQf
+		            Once logged in you can change your password.
+		        
+
+Delivery Failed
+
+=======================[2019-06-20 19:19:46]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Password reset requested
+Message:          
+			                A request was received to reset your password for the following site and username:
+			                http://localhost/feedback/			                Username: admin
+			                To confirm that the request was made by you please visit the following address, otherwise just ignore this email.
+			                http://localhost/feedback/users/lost-password.php?act=reset&key=admin%7CKoKnxM5MHZMhztU6Zc5ZjEo7nMpfv4gy%7C1561124985%7Cf94160f2b834595343650a3d36215656			            
+
+Delivery Failed
+
+=======================[2019-06-20 19:20:02]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Your new password
+Message: 		            Your password has been resetted for the following site and username:
+		            http://localhost/feedback/		            Username: admin
+		            New Password: AtvNVthbn28q
+		            Once logged in you can change your password.
+		        
+
+Delivery Failed
+
+=======================[2019-06-20 19:21:52]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Password reset requested
+Message:          
+			                A request was received to reset your password for the following site and username:
+			                http://localhost/feedback/			                Username: admin
+			                To confirm that the request was made by you please visit the following address, otherwise just ignore this email.
+			                http://localhost/feedback/users/lost-password.php?act=reset&key=admin%7CdpJRoMuMqKsupxtWVTSB4ZxsrALX7Sq5%7C1561125111%7C60793b6acd3b01d5f7508c9f8bb97a06			            
+
+Delivery Failed
+
+=======================[2019-06-20 19:22:16]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Your new password
+Message: 		            Your password has been resetted for the following site and username:
+		            http://localhost/feedback/		            Username: admin
+		            New Password: IARjkVUAxDVo
+		            Once logged in you can change your password.
+		        
+
+Delivery Failed
+
+=======================[2019-06-20 19:22:57]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Password reset requested
+Message:          
+			                A request was received to reset your password for the following site and username:
+			                http://localhost/feedback/			                Username: admin
+			                To confirm that the request was made by you please visit the following address, otherwise just ignore this email.
+			                http://localhost/feedback/users/lost-password.php?act=reset&key=admin%7CqVJHCuHZbAEcJUVOlGoNBDnCDXIg0pMb%7C1561125176%7C6659608bdd75a3025c9436ae2ccd935c			            
+
+Delivery Failed
+
+=======================[2019-06-20 19:23:16]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Your new password
+Message: 		            Your password has been resetted for the following site and username:
+		            http://localhost/feedback/		            Username: admin
+		            New Password: PanmHYTeG38O
+		            Once logged in you can change your password.
+		        
+
+Delivery Failed
+
+=======================[2019-06-20 19:24:05]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Password reset requested
+Message:          
+			                A request was received to reset your password for the following site and username:
+			                http://localhost/feedback/			                Username: admin
+			                To confirm that the request was made by you please visit the following address, otherwise just ignore this email.
+			                http://localhost/feedback/users/lost-password.php?act=reset&key=admin%7Co7sxVnInSyfPjRTPR2ZQBioS8lsnyoZi%7C1561125244%7Cd60416af0bce425b7771236ef81a93a4			            
+
+Delivery Failed
+
+=======================[2019-06-20 19:24:23]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Your new password
+Message: 		            Your password has been resetted for the following site and username:
+		            http://localhost/feedback/		            Username: admin
+		            New Password: rbn8TVqQvlvT
+		            Once logged in you can change your password.
+		        
+
+Delivery Failed
+
+=======================[2019-06-20 19:26:03]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Password reset requested
+Message:          
+			                A request was received to reset your password for the following site and username:
+			                http://localhost/feedback/			                Username: admin
+			                To confirm that the request was made by you please visit the following address, otherwise just ignore this email.
+			                http://localhost/feedback/users/lost-password.php?act=reset&key=admin%7CY69iVlHv2fh3p3IUDsnxNH4VutaxP1vk%7C1561125362%7Cf73bd2af9a1e23226402d6930318d5e0			            
+
+Delivery Failed
+
+=======================[2019-06-20 19:26:26]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Your new password
+Message: 		            Your password has been resetted for the following site and username:
+		            http://localhost/feedback/		            Username: admin
+		            New Password: n3rLgMMP3VUZ
+		            Once logged in you can change your password.
+		        
+
+Delivery Failed
+
+=======================[2019-06-22 13:23:53]=======================
+From: contact@yourdomain.com
+To: kalyani.kherde@gmail.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 						Please click the following link to activate your account:
+												Thanks,
+						Website Name
+					
+
+Delivery Failed
+
+=======================[2019-07-17 20:31:05]=======================
+From: contact@yourdomain.com
+To: kal@hh.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: New Account Confirmation
+Message: 						Please click the following link to activate your account:
+												Thanks,
+						Website Name
+					
+
+Delivery Failed
+
+=======================[2019-07-17 20:37:05]=======================
+From: admin@mysite.com
+To: kalyani.k@genxcoders.in
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Subject: Password reset requested
+Message:          
+			                A request was received to reset your password for the following site and username:
+			                http://localhost/GenXCoders-CTO/Feedback/			                Username: admin
+			                To confirm that the request was made by you please visit the following address, otherwise just ignore this email.
+			                http://localhost/GenXCoders-CTO/Feedback/users/lost-password.php?act=reset&key=admin%7CzZMYevMwTFo6abXe7hkQnFRr0zmXBIdT%7C1563462424%7C194ba548b1a6aa8f8d1a7fafb122ffd6			            
+
+Delivery Failed

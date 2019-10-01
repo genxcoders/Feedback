@@ -1,0 +1,254 @@
+img.size {
+	width: 200px;
+	height: 200px;
+
+}
+img.location {
+	margin: auto;
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+/* Body */
+body {
+	margin: 0px;
+	padding: 0px;
+	font-size: 13px;
+	font-family: 'Montserrat', sans-serif;
+	background: #f7f7f7;
+}
+/* Body */
+
+/* Shadow */
+.card-1 {
+  	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	/*transition: all 0.3s cubic-bezier(.25,.8,.25,1);*/
+}
+
+/*.card-1:hover {
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}*/
+
+.card-2 {
+  	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.card-3 {
+  	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.card-4 {
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.card-5 {
+  	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+/* Shadow */
+
+/* Border Radius */
+.border-radius-2 {
+	border-radius: 2px !important;
+}
+.border-radius-4 {
+	border-radius: 4px !important;
+}
+/* Border Radius */
+
+/* Background Color */
+.bg-white {
+	background-color: #ffffff;
+}
+/* Background Color */
+
+/* Padding */
+.gxcpl-ptop-5 {
+	padding-top: 5px;
+}
+.gxcpl-ptop-10 {
+	padding-top: 10px;
+}
+.gxcpl-ptop-20 {
+	padding-top: 20px;
+}
+.gxcpl-ptop-30 {
+	padding-top: 30px;
+}
+.gxcpl-ptop-40 {
+	padding-top: 40px;
+}
+.gxcpl-ptop-50 {
+	padding-top: 50px;
+}
+.gxcpl-padding-5 {
+	padding: 5px !important;
+}
+.gxcpl-padding-10 {
+	padding: 10px !important;
+}
+.gxcpl-padding-5-10 {
+	padding: 5px 10px !important;
+}
+.gxcpl-no-padding {
+	padding: 0px !important;
+}
+/* Padding */
+
+/* Margin */
+.gxcpl-no-margin {
+	margin: 0px !important;
+}
+/* Margin */
+
+/* Site Logo */
+img.logo {
+	width: 100px;
+	height: auto;
+	margin: auto auto 10px auto;
+	display: block;
+}
+/* Site Logo */
+
+/* Login */
+.login-box {
+	width: 300px;
+	height: 380px;
+	margin: auto;
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+/* Login */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #f4f4f4;
+	margin-bottom: 40px;
+}
+
+.logo{
+	width:100px;
+	height:100px;
+	top:50px;
+	margin:5px;
+	margin-right:100px;
+
+}
+
+.gxcpl-input-text{
+	width: 100%;
+	border:0px solid transparent;
+	border-bottom: 2px solid rgba(0,0,0,0.23);
+	transition: border-bottom 0.3s ease;
+	height:25px; 
+	padding: 12px 5px;
+}
+
+.gxcpl-input-text:focus, .gxcpl-input-select:focus{
+	border-bottom: 2px solid #205ec3;
+	transition: border-bottom 0.3s ease;
+	outline-width:0;
+}
+
+.nav{
+	background: #f2c90f;
+	padding-left: 5px;
+}
+
+
+}
+
+.gxcpl-input-text-2{
+	width: 100%;
+	border: 0px solid transparent;
+	border-bottom: 2px solid rgba(0,0,0,0.23);
+	transition: border-bottom 0.3s ease;
+}
+.gxcpl-input-text-2:focus {
+	border-bottom: 2px solid #205ec3;
+	transition: border-bottom 0.3s ease;
+	outline-width:0;
+}
+
+select.gxcpl-input-select {
+	width: 100%;
+	border: 0px;
+	border-bottom: 2px solid rgba(0,0,0,0.23);
+	transition: border-bottom 0.3s ease;
+}
+
+.gxcpl-shadow-1 {
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.gxcpl-shadow-2 {
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.panel-default > .panel-heading {
+	background-color:#f2c90f; 
+}
+
+.gxcpl-fc-21 {
+	color: #212121 !important;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+
+/* Set the fixed height of the footer here */
+/*footer {
+	position: fixed;
+	bottom: 0;
+	left: 12.5%;
+	width: 75%;
+	height: 20px;
+	line-height: 20px;
+	background-color: #f2c90f;
+}*/
+footer{
+
+	position: absolute;
+	bottom: 0;
+	width:100%;
+	height: 40px;
+	line-height: 40px;
+	background-color: #f2c90f;
+}
+
+.gxcpl-divider-light {
+	border-bottom: 1px solid rgba(255,255,255,0.25);
+}
+.gxcpl-divider-dark {
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+}
+.gxcpl-padding{
+	padding: 0px 8px;
+}
+.gxcpl-no-padding {
+	padding: 0px !important;
+}
+.gxcpl-no-margin {
+	margin: 0px !important;
+}
+.gxcpl-padding-10 {
+	padding: 10px;
+}
+.gxcpl-padding-15 {
+	padding: 15px;
+}
+.gxcpl-padding-30 {
+	padding: 30px;
+}
+/* Spacing */

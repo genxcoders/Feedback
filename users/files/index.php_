@@ -1,0 +1,16 @@
+<?php require_once( '../couch/cms.php' ); ?>
+<cms:template clonable='1' title='Users' hidden='1'>
+    <cms:editable name="fname" label="first name" type="text" order="1"/> 
+    <cms:editable name="mname" label="middle name" type="text" order="2"/>
+    <cms:editable name="lname" label="last name" type="text" order="3"/>    
+    <cms:editable name="d_o_b" label="Date of Birth" type="datetime" order="4"/>
+	<cms:editable name="gender" label="Gender" opt_values='Male | Female | Other' type='radio' 
+	order="5" />	  
+    <cms:editable name="email" label="Email" type="text" order="6" />
+    <cms:editable name="mob_no" label="Mobile Number" type="text" validator='exact_len=10 | non_negative_integer' required='1' order="7" />
+    <cms:editable name="adderss" label="Adderss" type="textarea" order="8" />
+    <cms:editable name="p_id" label="Principal ID" type="text" order="9" />
+ </cms:template>
+
+
+<?php COUCH::invoke(); ?>

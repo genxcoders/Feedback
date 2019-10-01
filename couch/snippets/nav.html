@@ -1,0 +1,32 @@
+				<!-- Navigator -->
+				<cms:if k_template_name=="index.php">
+				<div class="nav">
+					<div class="row">
+						
+						<div class="col-md-5">
+							 <input type="text" name="Dept_name" placeholder="Department Name" disabled style="height: 25px;">
+						</div>
+						<div class="col-md-5">
+						     <input type="text" name="Semester" placeholder="Semester" disabled style="height: 25px;">
+						</div>
+						
+						<div class="col-md-12 dropdown "> 
+							<button class="btn btn-default dropdown-toggle pull-right" type="button" id="userdropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" style="background: transparent; border: 1px solid transparent; color: #f2c90f;">
+							  	<i class="fa fa-user fa-lg"> User_name</i>
+							</button>
+							<ul class="dropdown-menu pull-right" aria-labelledby="userdropdown">
+								<li>
+							    	<a href="profile.html"><i class="fa fa-user-circle" aria-hidden="true"></i> Profile</a>
+							    </li>
+							    <li class="divider"></li>
+							    <li>
+							    	<a href="login.html"><i class="fa fa-power-off" aria-hidden="true"></i>  Logout</a>
+							    </li>
+							</ul>
+
+						</div>
+						
+					</div>
+				</div>
+				</cms:if>
+				<!-- Navigator -->

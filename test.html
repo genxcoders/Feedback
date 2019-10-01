@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Select Form</title>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			  
+			$('#selectForm').change(function(){
+			    var formID = $(this).val();
+			    $('form').css('display','none');
+			    $('#'+formID).css('display','block');
+			})
+			  
+	  })
+
+	</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	</head>
+	<body>
+
+	<label>Select Form</label>
+	  <select id="selectForm">
+	    <option></option>
+	    <option value="form1">Form 1</option>
+	    <option value="form2">Form 2</option>
+	</select>
+	<hr/>
+
+	<form  method="post"  name="firstform" id="form1" action="">
+
+	<label>Form 1</label>
+	<button id="btn1" value="Select All">Select All</button>
+	<button id="btn3" value="Delete CheckBox">Delete CheckBox</button>  <br><br>
+	<input type="checkbox" name="chk" value="One" id="ck1">One<br>
+	<input type="checkbox" name="chk" value="Two" id="ck2">Two<br>
+	<input type="checkbox" name="chk" value="Three" id="ck3">Three<br>
+	<input type="checkbox" name="chk" value="Four" id="ck4">Four<br>
+	<input type="checkbox" name="chk" value="Five" id="ck5">Five<br>
+	<button id="btn4" value="Status">Status</button>
+	</form>
+
+	<form name="secondform" id="form2" action="">
+	<label>Form 2</label>
+	Name : <input type="text" name="name" placeholder="Enter Your Name"><br><br>
+	Email : <input type="text" name="email" placeholder="Enter Email id"><br><br>
+	<button id="btn5" name="chk" >Submit</button>
+	</form>
+	
+</body>
+</html>

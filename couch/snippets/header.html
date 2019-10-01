@@ -1,0 +1,68 @@
+<cms:no_cache />
+<cms:if k_template_name=='users/login.php' || k_template_name=='users/lost-password.php'>
+<cms:else />
+	<cms:if k_logged_out>
+		<cms:redirect "<cms:login_link />" />
+	</cms:if>
+</cms:if>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>FeedBack Form</title>
+		<meta charset="UTF-8">
+		<meta name="description" content="Teacher rating and feedback management system of Gvernment Polytechnic College, arvi. Created by 4th Semester student of 2019 Batch">
+		<meta name="keywords" content="Teacher,Student,Feedback,Management,System,GP Arvi,Government Polytechnic,MSBTE">
+		<meta name="author" content="Feedback System">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Feedback Management System Login .:Govt. Polytechnic, Arvi:.</title>
+		<link rel="stylesheet" type="text/css" href="<cms:show k_site_link />assets/css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="<cms:show k_site_link />assets/css/font-awesome.css">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,800&display=swap" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="<cms:show k_site_link />assets/css/style.css">
+		<cms:if k_template_name=='form.php'>
+		<style>
+			input[type="text"], input[type="password"], textarea, select {
+				max-width: 100%;
+				height: 38px;
+				padding: 8px;
+				border: 1px solid #c0c0c0;
+				border-radius: 3px;
+				background-color: #fcfcfc;
+				color: #444;
+				font-family: inherit;
+				font-size: 14px;
+				box-shadow: none;
+			}
+			/* conditional fields */
+			#k_element_previous_number_of_employers, #k_element_previous_employer1_name,
+			#k_element_previous_employer1_phone, #k_element_previous_employer1_email,
+			#k_element_previous_employer2_name, #k_element_previous_employer2_phone,
+			#k_element_previous_employer2_email, #k_element_previous_employer3_name, 
+			#k_element_previous_employer3_phone, #k_element_previous_employer3_email
+			{
+				display:none;
+			}
+        </style>
+        </cms:if>
+	</head>
+	<body>
+		<div class="container">
+			
+			<cms:if k_template_name=='index.php' || k_template_name=='users/principal-pro.php' 
+			|| k_template_name=='users/student-profile.php'|| k_template_name=='users/teacher-profile.php'||k_template_name=='users/form.php'||k_template_name=='users/student-registration.php'||k_template_name=='users/teacher-registration.php'||k_template_name=='users/principal-registration.php'>
+				<!-- header -->
+				<div class="gxcpl-ptop-5"></div>
+				<div class="row">
+					<div class="col-md-2">
+						<img src="../assets/images/gp-arvi-logo-no-bg.jpg" align="left" class="logo">
+					</div>
+					<div class="col-md-10">
+						<div class="gxcpl-ptop-10"></div>
+						<h3 style="color:black;" class="text-center text-uppercase ">
+							<strong>Welcome to Students Feedback System</strong>
+						</h3>
+					</div>
+				</div>
+				<cms:embed 'nav.html' />
+			</cms:if >
+		<!-- header -->
